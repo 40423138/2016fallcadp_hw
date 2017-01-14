@@ -237,14 +237,14 @@
 <v t="leo.20170115003300.13"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161113210628.60"><vh>Pelican 設定</vh>
-<v t="leo.20161113210628.61"><vh>文章 Date 設定</vh></v>
-<v t="leo.20161113210628.62"><vh>使用 summary plugin</vh></v>
 </v>
 </v>
 </v>
 </v>
 </v>
+<v t="leo.20170115011515.1"><vh>Pelican 設定</vh>
+<v t="leo.20170115011515.2"><vh>文章 Date 設定</vh></v>
+<v t="leo.20170115011515.3"><vh>使用 summary plugin</vh></v>
 </v>
 <v t="leo.20161113210628.63"><vh>以下 pelicanconf.py 為近端與遠端的共同設定</vh></v>
 <v t="leo.20161113210628.64"><vh>@edit pelicanconf.py</vh></v>
@@ -675,27 +675,6 @@ redirecting ....
 @others
 
 </t>
-<t tx="leo.20161113210628.60"></t>
-<t tx="leo.20161113210628.61"># 設定網誌以 md 檔案建立的 file system date 為準, 無需自行設定
-
-DEFAULT_DATE = 'fs'</t>
-<t tx="leo.20161113210628.62">利用
-
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-來界定 Summary 摘要內容
-
-前提, 必須設定 
-
-PLUGIN_PATHS = ['plugin']
-
-與
-
-PLUGINS = ['liquid_tags.notebook', 'summary']
-
-並且從 https://github.com/getpelican/pelican-plugins
-
-取得 summary plugin</t>
 <t tx="leo.20161113210628.63"></t>
 <t tx="leo.20161113210628.65"></t>
 <t tx="leo.20161113210628.7">&lt;!doctype html&gt;
@@ -1473,5 +1452,26 @@ Nutcracker 零組件範例
 
 
 </t>
+<t tx="leo.20170115011515.1"></t>
+<t tx="leo.20170115011515.2"># 設定網誌以 md 檔案建立的 file system date 為準, 無需自行設定
+
+DEFAULT_DATE = 'fs'</t>
+<t tx="leo.20170115011515.3">利用
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+來界定 Summary 摘要內容
+
+前提, 必須設定 
+
+PLUGIN_PATHS = ['plugin']
+
+與
+
+PLUGINS = ['liquid_tags.notebook', 'summary']
+
+並且從 https://github.com/getpelican/pelican-plugins
+
+取得 summary plugin</t>
 </tnodes>
 </leo_file>
