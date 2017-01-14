@@ -129,7 +129,7 @@
 <v t="leo.20161113224221.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170115003113.1" a="E"><vh>20161118</vh>
+<v t="leo.20170115003113.1"><vh>20161118</vh>
 <v t="leo.20170115003113.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170115003113.3"><vh>20161118</vh></v>
 </v>
@@ -140,7 +140,7 @@
 <v t="leo.20170115003113.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170115003122.1" a="E"><vh>20161125</vh>
+<v t="leo.20170115003122.1"><vh>20161125</vh>
 <v t="leo.20170115003122.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170115003122.3"><vh>20161125</vh></v>
 </v>
@@ -200,11 +200,14 @@
 <v t="leo.20170115003219.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170115003219.5"><vh>上課內容</vh></v>
 </v>
+<v t="leo.20170115034229.1" a="E"><vh>上課內容</vh>
+<v t="leo.20170115034229.2"><vh>上課內容</vh></v>
+</v>
 <v t="leo.20170115003219.6" a="E"><vh>心得</vh>
 <v t="leo.20170115003219.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170115003227.1" a="E"><vh>20161230</vh>
+<v t="leo.20170115003227.1"><vh>20161230</vh>
 <v t="leo.20170115003227.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170115003227.3"><vh>20161230</vh></v>
 </v>
@@ -215,18 +218,21 @@
 <v t="leo.20170115003227.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170115003238.1" a="E"><vh>20170106</vh>
+<v t="leo.20170115003238.1"><vh>20170106</vh>
 <v t="leo.20170115003238.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170115003238.3"><vh>20170106</vh></v>
 </v>
 <v t="leo.20170115003238.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170115003238.5"><vh>上課內容</vh></v>
 </v>
+<v t="leo.20170115033551.1" a="E"><vh>上課內容</vh>
+<v t="leo.20170115033551.2"><vh>上課內容</vh></v>
+</v>
 <v t="leo.20170115003238.6" a="E"><vh>心得</vh>
 <v t="leo.20170115003238.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170115003300.1" a="E"><vh>20170113</vh>
+<v t="leo.20170115003300.1"><vh>20170113</vh>
 <v t="leo.20170115003300.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170115003300.3"><vh>20170113</vh></v>
 </v>
@@ -1205,9 +1211,7 @@ Solvespace 機構模擬功能介紹
 
 展示3D印表機 ，並模擬它的運動軌跡。
 
-
-
-
+&lt;img src="data/image/W15-1.png" width="800" /&gt;
 
 
 </t>
@@ -1298,9 +1302,11 @@ OnShape繪製Mechanism Tutorial
 </t>
 <t tx="leo.20170115003238.5">##上課內容 
 
-整理目前上課進度
+回顧一下這學期使用的軟體
 
+&lt;p&gt;Solvespace&lt;p&gt;
 
+&lt;img src="data/image/W17-1.png" width="800" /&gt;
 
 </t>
 <t tx="leo.20170115003238.6">&lt;section data-markdown&gt;
@@ -1536,6 +1542,46 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 
 &lt;iframe src="https://player.vimeo.com/video/199454580" width="640" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20170115033551.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115033551.2">##上課內容 
+
+回顧一下這學期使用的軟體
+
+&lt;p&gt;OnShape&lt;p&gt;
+
+&lt;img src="data/image/W17-2.png" width="800" /&gt;
+
+</t>
+<t tx="leo.20170115034229.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115034229.2">##上課內容 
+
+展示3D印表機 ，並模擬它的運動軌跡。
+
+
+&lt;img src="data/image/W15-2.png" width="800" /&gt;
+
+
+
 
 
 
