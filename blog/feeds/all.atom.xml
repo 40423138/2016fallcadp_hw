@@ -1,5 +1,309 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423138 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-11-10T22:00:00+08:00</updated><entry><title>Week 9</title><link href="./week-9.html" rel="alternate"></link><updated>2016-11-10T22:00:00+08:00</updated><author><name>40423138</name></author><id>tag:,2016-11-10:./week-9.html</id><summary type="html">&lt;p&gt;期中考週&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 8</title><link href="./week-8.html" rel="alternate"></link><updated>2016-11-03T22:00:00+08:00</updated><author><name>40423138</name></author><id>tag:,2016-11-03:./week-8.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 7</title><link href="./week-7.html" rel="alternate"></link><updated>2016-10-27T22:00:00+08:00</updated><author><name>40423138</name></author><id>tag:,2016-10-27:./week-7.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423138 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-01-12T10:00:00+08:00</updated><entry><title>2016fall 課程總結</title><link href="./2016fall-ke-cheng-zong-jie.html" rel="alternate"></link><updated>2017-01-12T10:00:00+08:00</updated><author><name>40423138</name></author><id>tag:,2017-01-12:./2016fall-ke-cheng-zong-jie.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+
+
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;創造力三元素
+自學能力 - 根據特定主題, 自我學習能力
+程式能力 - 規劃並執行特定格式化流程之能力
+想像能力 - 在規劃或執行之前, 根據既有基礎, 具備步驟安排, 想望成具體結果之能力&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;6種表達方式
+口語表達
+文字表達
+2D 圖像表達
+3D 圖像表達 (含動畫或影音表達)
+理論分析表達 (含定性或定量表達)
+實體表達&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可攜式 Python3 程式環境
+可攜式
+程式環境
+Leo Editor (多元資料管理、pelican 轉檔指令執行, 模擬 IPv4/v6 https server)
+Pelican 網誌
+Reveal 網頁投影片
+git client (config、proxy、add、commit、push、pull、branch、checkout)
+Gihub 倉儲、gh-pages 與 wiki
+Brython 網際程式系統 (文字、2D/3D靜態與動態資料展示, 互動式運算)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Solvespace 參數 3D 繪圖系統
+簡單的 3D 零件與組立件
+2D 機構模擬 (kinematics)
+3D 零件與組立件網際檢視 (three.js)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Onshape 雲端參數 3D 繪圖系統
+以電腦瀏覽器開啟, 免單機安裝厚重系統
+以手機與平板 Apps 輔助設計
+提供特徵設計版本管理
+提供雲端零組件協同
+提供網際零組件與機構模擬檢視
+提供 featurescript 客製化程式系統 (納入協同產品設計實習課程範圍)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;零組件繪圖練習
+Solvespace Tutorial 範例
+Onshape Tutorial 課程範例
+Delta 3D Printer 零組件範例
+Fourbar Linkage 零組件範例
+Nutcracker 零組件範例&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ShareX 取畫面圖像與操作影片錄製
+操作過程影片送到 Vimeo 與 Youtube
+利用網誌練習文字、口語、流程規劃執行能力&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Github submodule 網際協同 (納入協同產品設計實習課程範圍)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;心得&lt;p&gt;
+
+&lt;p&gt;今天是這學期的最後一堂課了，老師今天一一點名還順便檢查了大家的網誌進度，想當然爾非常的淒慘。雖然幾乎每個人都被抓出了很多錯誤根要改進的地方，不過我覺得老師這樣很好，讓我們可以了解自己哪個部分還需要加強改進。至於我的網誌，因為影片不完整，所以要利用接下來的時間補齊。題外話，我個人還是比較習慣用Solvespace，雖然OnShape跟我之前高中學的SolidWorks有些許類似，不過我還是比較偏向於簡單又實用的軟體。學期即將結束了，謝謝老師這學期的教導。&lt;p&gt;</summary><category term="課程總結"></category></entry><entry><title>Week 17</title><link href="./week-17.html" rel="alternate"></link><updated>2017-01-05T22:00:00+08:00</updated><author><name>40423138</name></author><id>tag:,2017-01-05:./week-17.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+
+
+&lt;p&gt;Solvespace&lt;p&gt;
+
+&lt;img src="../data/image/W17-1.png" width="800" /&gt;
+
+&lt;p&gt;OnShape&lt;p&gt;
+
+&lt;img src="../data/image/W17-2.png" width="800" /&gt;
+
+
+&lt;p&gt;影片&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/198438045" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;心得&lt;p&gt;
+
+&lt;p&gt;今天第十七次上課，就要學期末了，加把勁，不然就要被當了。&lt;p&gt;</summary><category term="總整理"></category></entry><entry><title>Week 16</title><link href="./week-16.html" rel="alternate"></link><updated>2016-12-29T22:00:00+08:00</updated><author><name>40423138</name></author><id>tag:,2016-12-29:./week-16.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+
+
+&lt;p&gt;OnShape繪製Mechanism Tutorial&lt;p&gt;
+
+&lt;img src="../data/image/W16-1.png" width="800" /&gt;
+&lt;iframe src="./../data/image/W16-1.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+&lt;p&gt;零件&lt;p&gt;
+
+&lt;img src="../data/image/W16-2.png" width="800" /&gt;
+&lt;iframe src="./../data/image/W16-2.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+&lt;img src="../data/image/W16-3.png" width="800" /&gt;
+&lt;iframe src="./../data/image/W16-3.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+&lt;img src="../data/image/W16-4.png" width="800" /&gt;
+&lt;iframe src="./../data/image/W16-4.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+&lt;img src="../data/image/W16-5.png" width="800" /&gt;
+&lt;iframe src="./../data/image/W16-5.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+&lt;img src="../data/image/W16-6.png" width="800" /&gt;
+&lt;iframe src="./../data/image/W16-6.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+&lt;img src="../data/image/W16-7.png" width="800" /&gt;
+&lt;iframe src="./../data/image/W16-7.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+&lt;img src="../data/image/W16-8.png" width="800" /&gt;
+&lt;iframe src="./../data/image/W16-8.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+&lt;img src="../data/image/W16-9.png" width="800" /&gt;
+&lt;iframe src="./../data/image/W16-9.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;影片&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/198434975" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;心得&lt;p&gt;
+
+預祝大家新年快樂!新的一年有新的目標，並可以加以完成!</summary><category term="OnShape(2)"></category></entry><entry><title>Week 15</title><link href="./week-15.html" rel="alternate"></link><updated>2016-12-22T22:00:00+08:00</updated><author><name>40423138</name></author><id>tag:,2016-12-22:./week-15.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+
+
+&lt;p&gt;3D印表機 ，並模擬它的運動軌跡。&lt;p&gt;
+
+&lt;img src="../data/image/W15-1.png" width="800" /&gt;
+&lt;iframe src="./../data/image/W15-1.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+
+
+
+
+
+&lt;img src="../data/image/W15-2.png" width="800" /&gt;
+
+
+&lt;p&gt;影片&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/198431435" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;心得&lt;p&gt;
+
+今天終於看到老師一開始上課的目標-3D印表機，興趣滿滿。</summary><category term="3D印表機"></category></entry><entry><title>Week 14</title><link href="./week-14.html" rel="alternate"></link><updated>2016-12-15T22:00:00+08:00</updated><author><name>40423138</name></author><id>tag:,2016-12-15:./week-14.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+
+
+&lt;p&gt;用SolveSpace把檔案存成html檔,並且更改成http設定,利用嵌入網頁的指令,把html檔案放進網誌裡面&lt;p&gt;
+
+&lt;iframe src="./../data/image/W14-1.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+&lt;iframe src="./../data/image/W14-2.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+&lt;iframe src="./../data/image/W14-3.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;影片&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/198374358" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+&lt;p&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;p&gt;心得&lt;p&gt;
+
+今天第十四次上課，上課人數越來越少了，開始複雜了，繼續加油吧!</summary><category term="Solvespace(3)"></category></entry><entry><title>Week 13</title><link href="./week-13.html" rel="alternate"></link><updated>2016-12-08T22:00:00+08:00</updated><author><name>40423138</name></author><id>tag:,2016-12-08:./week-13.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+
+
+&lt;p&gt;利用OnShape練習繪製零件。&lt;p&gt;
+
+&lt;img src="../data/image/W13-1.png" width="800" /&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img src="../data/image/W13-2.png" width="800" /&gt;
+
+
+&lt;p&gt;影片&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/198373370" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;心得&lt;p&gt;
+
+今天又有交一個新的畫圖軟體OnShape，很像我之前學的繪圖軟體 SolidWorks，不過比較不一樣的地方是它是線上版的，更加的便利了，這可能就是未來的趨勢了。</summary><category term="OnShape(1)"></category></entry><entry><title>Week 12</title><link href="./week-12.html" rel="alternate"></link><updated>2016-12-01T22:00:00+08:00</updated><author><name>40423138</name></author><id>tag:,2016-12-01:./week-12.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+
+
+&lt;p&gt;利用SOLVESPACE練習繪製COLLEGE_STUDENT_PRIMER_CREO_2.PDF裡的零件並學習如何組立。&lt;p&gt;
+
+&lt;img src="../data/image/W12-1.png" width="800" /&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img src="../data/image/W12-2.png" width="800" /&gt;
+
+
+
+&lt;img src="../data/image/W12-3.png" width="800" /&gt;
+
+
+
+&lt;p&gt;影片&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/198372038" width="640" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;心得&lt;p&gt;
+
+今天第十二次上課，要畫兩張圖。另外，Solvespace越畫越上手了。</summary><category term="Solvespace(2)"></category></entry><entry><title>Week 11</title><link href="./week-11.html" rel="alternate"></link><updated>2016-11-24T22:00:00+08:00</updated><author><name>40423138</name></author><id>tag:,2016-11-24:./week-11.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+
+
+&lt;p&gt;影片&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/198370835" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;心得&lt;p&gt;
+
+今天一如往常的還是練習畫圖，要畫的圖越來越難了，想當初剛開始學的時候還是畫那種長出加肋材的圖片，繼續加油!</summary><category term="虎尾科技大學36週年校慶"></category></entry><entry><title>Week 10</title><link href="./week-10.html" rel="alternate"></link><updated>2016-11-17T22:00:00+08:00</updated><author><name>40423138</name></author><id>tag:,2016-11-17:./week-10.html</id><summary type="html">&lt;p&gt;上課內容&lt;/p&gt;
+
+
+&lt;p&gt;有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證&lt;p&gt;
+
+&lt;p&gt;路徑圖&lt;/p&gt;
+
+&lt;img src="../data/image/W10-1.png" width="800" /&gt;
+
+
+&lt;p&gt;將所得到的點座標 .csv 以 Excel 畫圖。路徑圖&lt;/p&gt;
+
+&lt;img src="../data/image/W10-2.png" width="800" /&gt;
+
+
+
+
+&lt;p&gt;影片&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/198369023" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+
+&lt;p&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p&gt;心得&lt;p&gt;
+
+今天第十次上課，今天學了Solvespace這套軟體。簡單又實用的繪圖軟體!</summary><category term="Solvespace"></category></entry><entry><title>Week 9</title><link href="./week-9.html" rel="alternate"></link><updated>2016-11-10T22:00:00+08:00</updated><author><name>40423138</name></author><id>tag:,2016-11-10:./week-9.html</id><summary type="html">&lt;p&gt;期中考週&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 8</title><link href="./week-8.html" rel="alternate"></link><updated>2016-11-03T22:00:00+08:00</updated><author><name>40423138</name></author><id>tag:,2016-11-03:./week-8.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 7</title><link href="./week-7.html" rel="alternate"></link><updated>2016-10-27T22:00:00+08:00</updated><author><name>40423138</name></author><id>tag:,2016-10-27:./week-7.html</id><summary type="html">&lt;p&gt;使用Trace Point計算路徑&lt;p&gt;
 
 &lt;p&gt;路徑圖&lt;/p&gt;
 &lt;a&gt;&lt;img src="../photo/Trace Point.PNG" /&gt;&lt;/a&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 6</title><link href="./week-6.html" rel="alternate"></link><updated>2016-10-20T22:00:00+08:00</updated><author><name>40423138</name></author><id>tag:,2016-10-20:./week-6.html</id><summary type="html">&lt;p&gt;學期中將至，學了很多東西但不懂的也很多，繼續努力!&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 5</title><link href="./week-5.html" rel="alternate"></link><updated>2016-10-13T22:00:00+08:00</updated><author><name>40423138</name></author><id>tag:,2016-10-13:./week-5.html</id><summary type="html">&lt;p&gt;##認識SolveSpace&lt;p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>Week 4</title><link href="./week-4.html" rel="alternate"></link><updated>2016-10-06T21:00:00+08:00</updated><author><name>40423138</name></author><id>tag:,2016-10-06:./week-4.html</id><summary type="html">&lt;p&gt;1: 設定使用者資料&lt;/p&gt;
