@@ -129,7 +129,7 @@
 <v t="leo.20161113224221.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170115003113.1"><vh>20161118</vh>
+<v t="leo.20170115003113.1" a="E"><vh>20161118</vh>
 <v t="leo.20170115003113.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170115003113.3"><vh>20161118</vh></v>
 </v>
@@ -140,7 +140,7 @@
 <v t="leo.20170115003113.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170115003122.1"><vh>20161125</vh>
+<v t="leo.20170115003122.1" a="E"><vh>20161125</vh>
 <v t="leo.20170115003122.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170115003122.3"><vh>20161125</vh></v>
 </v>
@@ -151,12 +151,18 @@
 <v t="leo.20170115003122.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170115003152.1" a="E"><vh>20161202</vh>
-<v t="leo.20170115003152.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170115003152.1"><vh>20161202</vh>
+<v t="leo.20170115003152.2"><vh>上課日期</vh>
 <v t="leo.20170115003152.3"><vh>20161202</vh></v>
 </v>
 <v t="leo.20170115003152.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170115003152.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170115031347.1" a="E"><vh>上課內容</vh>
+<v t="leo.20170115031347.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170115031414.1" a="E"><vh>上課內容</vh>
+<v t="leo.20170115031414.2"><vh>上課內容</vh></v>
 </v>
 <v t="leo.20170115003152.6" a="E"><vh>心得</vh>
 <v t="leo.20170115003152.7"><vh>心得</vh></v>
@@ -168,6 +174,9 @@
 </v>
 <v t="leo.20170115003200.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170115003200.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170115030836.1" a="E"><vh>上課內容</vh>
+<v t="leo.20170115030836.2"><vh>上課內容</vh></v>
 </v>
 <v t="leo.20170115003200.6" a="E"><vh>心得</vh>
 <v t="leo.20170115003200.7"><vh>心得</vh></v>
@@ -184,8 +193,8 @@
 <v t="leo.20170115003211.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170115003219.1"><vh>20161223</vh>
-<v t="leo.20170115003219.2"><vh>上課日期</vh>
+<v t="leo.20170115003219.1" a="E"><vh>20161223</vh>
+<v t="leo.20170115003219.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170115003219.3"><vh>20161223</vh></v>
 </v>
 <v t="leo.20170115003219.4" a="E"><vh>上課內容</vh>
@@ -195,7 +204,7 @@
 <v t="leo.20170115003219.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170115003227.1"><vh>20161230</vh>
+<v t="leo.20170115003227.1" a="E"><vh>20161230</vh>
 <v t="leo.20170115003227.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170115003227.3"><vh>20161230</vh></v>
 </v>
@@ -206,7 +215,7 @@
 <v t="leo.20170115003227.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170115003238.1"><vh>20170106</vh>
+<v t="leo.20170115003238.1" a="E"><vh>20170106</vh>
 <v t="leo.20170115003238.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170115003238.3"><vh>20170106</vh></v>
 </v>
@@ -217,7 +226,7 @@
 <v t="leo.20170115003238.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170115003300.1"><vh>20170113</vh>
+<v t="leo.20170115003300.1" a="E"><vh>20170113</vh>
 <v t="leo.20170115003300.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170115003300.3"><vh>20170113</vh></v>
 </v>
@@ -951,7 +960,7 @@ print("hello")
 
 有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證
 
-&lt;iframe src="https://player.vimeo.com/video/198369023" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/199465908" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 
 
@@ -1049,7 +1058,8 @@ Solvespace 機構模擬功能介紹
 
 利用SOLVESPACE練習繪製COLLEGE_STUDENT_PRIMER_CREO_2.PDF裡的零件並學習如何組立。
 
-&lt;iframe src="https://vimeo.com/199454291" width="640" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/199454291" width="640" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
 
 
 
@@ -1097,7 +1107,7 @@ Solvespace 機構模擬功能介紹
 
 利用OnShape練習繪製零件。
 
-&lt;iframe src="https://player.vimeo.com/video/198373370" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;img src="data/image/555.png" width="800" /&gt;
 
 
 
@@ -1147,7 +1157,7 @@ Solvespace 機構模擬功能介紹
 
 用SolveSpace把檔案存成html檔,並且更改成http設定,利用嵌入網頁的指令,把html檔案放進網誌裡面
 
-&lt;iframe src="https://player.vimeo.com/video/198374358" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/199455394" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 
 
@@ -1195,7 +1205,7 @@ Solvespace 機構模擬功能介紹
 
 展示3D印表機 ，並模擬它的運動軌跡。
 
-&lt;iframe src="https://player.vimeo.com/video/198431435" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
 
 
 
@@ -1244,7 +1254,6 @@ Solvespace 機構模擬功能介紹
 
 OnShape繪製Mechanism Tutorial
 
-&lt;iframe src="https://player.vimeo.com/video/198434975" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 
 
@@ -1290,8 +1299,6 @@ OnShape繪製Mechanism Tutorial
 <t tx="leo.20170115003238.5">##上課內容 
 
 整理目前上課進度
-
-&lt;iframe src="https://player.vimeo.com/video/198438045" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 
 
@@ -1473,5 +1480,65 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 並且從 https://github.com/getpelican/pelican-plugins
 
 取得 summary plugin</t>
+<t tx="leo.20170115030836.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115030836.2">##上課內容 
+
+利用OnShape練習繪製零件。
+
+
+&lt;iframe src="https://player.vimeo.com/video/199471036" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+</t>
+<t tx="leo.20170115031347.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115031347.2">##上課內容 
+
+利用SOLVESPACE練習繪製COLLEGE_STUDENT_PRIMER_CREO_2.PDF裡的零件並學習如何組立。
+
+
+
+&lt;iframe src="https://player.vimeo.com/video/199454494" width="640" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+</t>
+<t tx="leo.20170115031414.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115031414.2">##上課內容 
+
+利用SOLVESPACE練習繪製COLLEGE_STUDENT_PRIMER_CREO_2.PDF裡的零件並學習如何組立。
+
+
+&lt;iframe src="https://player.vimeo.com/video/199454580" width="640" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
 </tnodes>
 </leo_file>
