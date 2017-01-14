@@ -30,7 +30,7 @@
 <v t="leo.20161113210628.12" a="E"><vh>封面投影片</vh>
 <v t="leo.20161113210628.13"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20161113210628.14" a="E"><vh>20160915</vh>
+<v t="leo.20161113210628.14"><vh>20160915</vh>
 <v t="leo.20161113210628.15" a="E"><vh>上課日期</vh>
 <v t="leo.20161113210628.16"><vh>20160916</vh></v>
 </v>
@@ -41,7 +41,7 @@
 <v t="leo.20161113212523.2"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161113210628.19" a="E"><vh>20160922</vh>
+<v t="leo.20161113210628.19"><vh>20160922</vh>
 <v t="leo.20161113210628.20" a="E"><vh>上課日期</vh>
 <v t="leo.20161113210628.21"><vh>20160922</vh></v>
 </v>
@@ -52,7 +52,7 @@
 <v t="leo.20161113213316.2"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161113210628.26" a="E"><vh>20160929</vh>
+<v t="leo.20161113210628.26"><vh>20160929</vh>
 <v t="leo.20161113210628.27" a="E"><vh>上課日期</vh>
 <v t="leo.20161113210628.28"><vh>20160929</vh></v>
 </v>
@@ -63,7 +63,7 @@
 <v t="leo.20161113214057.2"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161113210628.33" a="E"><vh>20161006</vh>
+<v t="leo.20161113210628.33"><vh>20161006</vh>
 <v t="leo.20161113210628.34" a="E"><vh>上課日期</vh>
 <v t="leo.20161113210628.35"><vh>20161006</vh></v>
 </v>
@@ -74,7 +74,7 @@
 <v t="leo.20161113214510.2"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161113210628.40" a="E"><vh>20161013</vh>
+<v t="leo.20161113210628.40"><vh>20161013</vh>
 <v t="leo.20161113210628.41" a="E"><vh>上課日期</vh>
 <v t="leo.20161113210628.42"><vh>20161013</vh></v>
 </v>
@@ -85,7 +85,7 @@
 <v t="leo.20161113214946.2"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161113210628.45" a="E"><vh>20161020</vh>
+<v t="leo.20161113210628.45"><vh>20161020</vh>
 <v t="leo.20161113210628.46" a="E"><vh>上課日期</vh>
 <v t="leo.20161113210628.47"><vh>20161020</vh></v>
 </v>
@@ -96,7 +96,7 @@
 <v t="leo.20161113215344.2"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161113210628.50" a="E"><vh>20161027</vh>
+<v t="leo.20161113210628.50"><vh>20161027</vh>
 <v t="leo.20161113210628.51" a="E"><vh>上課日期</vh>
 <v t="leo.20161113210628.52"><vh>20161027</vh></v>
 </v>
@@ -107,7 +107,7 @@
 <v t="leo.20161113223514.2"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161113210628.55" a="E"><vh>20161103</vh>
+<v t="leo.20161113210628.55"><vh>20161103</vh>
 <v t="leo.20161113210628.56" a="E"><vh>上課日期</vh>
 <v t="leo.20161113210628.57"><vh>20161103</vh></v>
 </v>
@@ -118,7 +118,7 @@
 <v t="leo.20161113223930.2"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20161113224221.1" a="E"><vh>20161110</vh>
+<v t="leo.20161113224221.1"><vh>20161110</vh>
 <v t="leo.20161113224221.2" a="E"><vh>上課日期</vh>
 <v t="leo.20161113224221.3"><vh>20161110</vh></v>
 </v>
@@ -129,14 +129,122 @@
 <v t="leo.20161113224221.7"><vh>心得</vh></v>
 </v>
 </v>
+<v t="leo.20170115003113.1"><vh>20161118</vh>
+<v t="leo.20170115003113.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170115003113.3"><vh>20161118</vh></v>
+</v>
+<v t="leo.20170115003113.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170115003113.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170115003113.6" a="E"><vh>心得</vh>
+<v t="leo.20170115003113.7"><vh>心得</vh></v>
 </v>
 </v>
+<v t="leo.20170115003122.1"><vh>20161125</vh>
+<v t="leo.20170115003122.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170115003122.3"><vh>20161125</vh></v>
+</v>
+<v t="leo.20170115003122.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170115003122.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170115003122.6" a="E"><vh>心得</vh>
+<v t="leo.20170115003122.7"><vh>心得</vh></v>
 </v>
 </v>
+<v t="leo.20170115003152.1" a="E"><vh>20161202</vh>
+<v t="leo.20170115003152.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170115003152.3"><vh>20161202</vh></v>
 </v>
-<v t="leo.20161113210628.60" a="E"><vh>Pelican 設定</vh>
+<v t="leo.20170115003152.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170115003152.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170115003152.6" a="E"><vh>心得</vh>
+<v t="leo.20170115003152.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170115003200.1"><vh>20161209</vh>
+<v t="leo.20170115003200.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170115003200.3"><vh>20161209</vh></v>
+</v>
+<v t="leo.20170115003200.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170115003200.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170115003200.6" a="E"><vh>心得</vh>
+<v t="leo.20170115003200.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170115003211.1"><vh>20161216</vh>
+<v t="leo.20170115003211.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170115003211.3"><vh>20161216</vh></v>
+</v>
+<v t="leo.20170115003211.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170115003211.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170115003211.6" a="E"><vh>心得</vh>
+<v t="leo.20170115003211.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170115003219.1"><vh>20161223</vh>
+<v t="leo.20170115003219.2"><vh>上課日期</vh>
+<v t="leo.20170115003219.3"><vh>20161223</vh></v>
+</v>
+<v t="leo.20170115003219.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170115003219.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170115003219.6" a="E"><vh>心得</vh>
+<v t="leo.20170115003219.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170115003227.1"><vh>20161230</vh>
+<v t="leo.20170115003227.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170115003227.3"><vh>20161230</vh></v>
+</v>
+<v t="leo.20170115003227.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170115003227.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170115003227.6" a="E"><vh>心得</vh>
+<v t="leo.20170115003227.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170115003238.1"><vh>20170106</vh>
+<v t="leo.20170115003238.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170115003238.3"><vh>20170106</vh></v>
+</v>
+<v t="leo.20170115003238.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170115003238.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170115003238.6" a="E"><vh>心得</vh>
+<v t="leo.20170115003238.7"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170115003300.1"><vh>20170113</vh>
+<v t="leo.20170115003300.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170115003300.3"><vh>20170113</vh></v>
+</v>
+<v t="leo.20170115003300.4" a="E"><vh>上課內容1</vh>
+<v t="leo.20170115003300.5"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170115003300.6" a="E"><vh>上課內容2</vh>
+<v t="leo.20170115003300.7"><vh>上課內容2</vh></v>
+</v>
+<v t="leo.20170115003300.8" a="E"><vh>上課內容3</vh>
+<v t="leo.20170115003300.9"><vh>上課內容3</vh></v>
+</v>
+<v t="leo.20170115003300.10" a="E"><vh>上課內容4</vh>
+<v t="leo.20170115003300.11"><vh>上課內容4</vh></v>
+</v>
+<v t="leo.20170115003300.12" a="E"><vh>心得</vh>
+<v t="leo.20170115003300.13"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20161113210628.60"><vh>Pelican 設定</vh>
 <v t="leo.20161113210628.61"><vh>文章 Date 設定</vh></v>
 <v t="leo.20161113210628.62"><vh>使用 summary plugin</vh></v>
+</v>
+</v>
+</v>
+</v>
+</v>
 </v>
 <v t="leo.20161113210628.63"><vh>以下 pelicanconf.py 為近端與遠端的共同設定</vh></v>
 <v t="leo.20161113210628.64"><vh>@edit pelicanconf.py</vh></v>
@@ -834,6 +942,536 @@ print("hello")
 <t tx="leo.20161113224221.7">##心得
 
 今天是第二次的自評，另外還有順便點名了!聽說有人因為會考而缺席課堂，不過會考不是在下午四點嗎..
+</t>
+<t tx="leo.20170115003113.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170115003113.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003113.3">## 2016/11/17 第十週
+
+</t>
+<t tx="leo.20170115003113.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003113.5">##上課內容 
+
+有關 Solvespace 機構模擬功能介紹, 與 Python3 及 Brython 程式驗證
+
+&lt;iframe src="https://player.vimeo.com/video/198369023" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+</t>
+<t tx="leo.20170115003113.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003113.7">##心得
+
+今天第十次上課，今天學了Solvespace這套軟體。簡單又實用的繪圖軟體!
+
+</t>
+<t tx="leo.20170115003122.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170115003122.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003122.3">## 2016/11/24 第十一週
+
+</t>
+<t tx="leo.20170115003122.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003122.5">##上課內容 
+
+Solvespace 機構模擬功能介紹
+
+
+
+
+
+
+</t>
+<t tx="leo.20170115003122.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003122.7">##心得
+
+今天一如往常的還是練習畫圖，要畫的圖越來越難了，想當初剛開始學的時候還是畫那種長出加肋材的圖片，繼續加油!
+
+</t>
+<t tx="leo.20170115003152.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170115003152.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003152.3">## 2016/12/01 第十二週
+
+</t>
+<t tx="leo.20170115003152.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003152.5">##上課內容 
+
+利用SOLVESPACE練習繪製COLLEGE_STUDENT_PRIMER_CREO_2.PDF裡的零件並學習如何組立。
+
+&lt;iframe src="https://vimeo.com/199454291" width="640" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+</t>
+<t tx="leo.20170115003152.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003152.7">##心得
+
+今天第十二次上課，要畫兩張圖。另外，Solvespace越畫越上手了。
+</t>
+<t tx="leo.20170115003200.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170115003200.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003200.3">## 2016/12/08 第十三週
+
+</t>
+<t tx="leo.20170115003200.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003200.5">##上課內容 
+
+利用OnShape練習繪製零件。
+
+&lt;iframe src="https://player.vimeo.com/video/198373370" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+</t>
+<t tx="leo.20170115003200.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003200.7">##心得
+
+今天又有交一個新的畫圖軟體OnShape，很像我之前學的繪圖軟 SolidWorks，不過比較不一樣的地方是它是線上版的，更加的便利了，這可能就是未來的趨勢了。
+
+
+</t>
+<t tx="leo.20170115003211.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170115003211.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003211.3">## 2016/12/15 第十四週
+
+</t>
+<t tx="leo.20170115003211.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003211.5">##上課內容 
+
+用SolveSpace把檔案存成html檔,並且更改成http設定,利用嵌入網頁的指令,把html檔案放進網誌裡面
+
+&lt;iframe src="https://player.vimeo.com/video/198374358" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+</t>
+<t tx="leo.20170115003211.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003211.7">##心得
+
+今天第十四次上課，上課人數越來越少了，開始複雜了，繼續加油吧!
+</t>
+<t tx="leo.20170115003219.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170115003219.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003219.3">## 2016/12/22 第十五週
+
+</t>
+<t tx="leo.20170115003219.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003219.5">##上課內容 
+
+展示3D印表機 ，並模擬它的運動軌跡。
+
+&lt;iframe src="https://player.vimeo.com/video/198431435" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+</t>
+<t tx="leo.20170115003219.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003219.7">##心得
+
+今天終於看到老師一開始上課的目標-3D印表機，興趣滿滿。
+
+</t>
+<t tx="leo.20170115003227.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170115003227.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003227.3">## 2016/12/29 第十六週
+
+</t>
+<t tx="leo.20170115003227.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003227.5">##上課內容 
+
+OnShape繪製Mechanism Tutorial
+
+&lt;iframe src="https://player.vimeo.com/video/198434975" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20170115003227.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003227.7">##心得
+
+預祝大家新年快樂!新的一年有新的目標，並可以加以完成!
+</t>
+<t tx="leo.20170115003238.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170115003238.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003238.3">## 2017/01/05 第十七週
+
+</t>
+<t tx="leo.20170115003238.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003238.5">##上課內容 
+
+整理目前上課進度
+
+&lt;iframe src="https://player.vimeo.com/video/198438045" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20170115003238.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003238.7">##心得
+
+今天第十七次上課，就要學期末了，加把勁，不然就要被當了。
+</t>
+<t tx="leo.20170115003300.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170115003300.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003300.11">##上課內容4
+
+7. ShareX 取畫面圖像與操作影片錄製
+操作過程影片送到 Vimeo 與 Youtube
+利用網誌練習文字、口語、流程規劃執行能力
+
+8. Github submodule 網際協同 (納入協同產品設計實習課程範圍)
+
+
+
+</t>
+<t tx="leo.20170115003300.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003300.13">##心得
+
+今天是這學期的最後一堂課了，老師今天一一點名還順便檢查了大家的網誌進度，想當然爾非常的淒慘。雖然幾乎每個人都被抓出了很多錯誤根要改進的地方，不過我覺得老師這樣很好，讓我們可以了解自己哪個部分還需要加強改進。至於我的網誌，因為影片不完整，所以要利用接下來的時間補齊。題外話，我個人還是比較喜歡用Solvespace，雖然跟我之前高中學的SolidWorks有些許類似，不過我還是比較偏向於簡單又實用的軟體。學期即將結束了，謝謝老師這學期的教導。
+</t>
+<t tx="leo.20170115003300.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003300.3">## 2017/11/12第十八週
+
+</t>
+<t tx="leo.20170115003300.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+
+
+
+
+
+
+</t>
+<t tx="leo.20170115003300.5">##上課內容1
+
+1. 創造力三元素
+自學能力 - 根據特定主題, 自我學習能力
+程式能力 - 規劃並執行特定格式化流程之能力
+想像能力 - 在規劃或執行之前, 根據既有基礎, 具備步驟安排, 想望成具體結果之能力
+
+2. 6種表達方式
+口語表達
+文字表達
+2D 圖像表達
+3D 圖像表達 (含動畫或影音表達)
+理論分析表達 (含定性或定量表達)
+實體表達
+
+
+
+
+
+
+</t>
+<t tx="leo.20170115003300.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003300.7">##上課內容2
+
+3. 可攜式 Python3 程式環境
+可攜式
+程式環境
+Leo Editor (多元資料管理、pelican 轉檔指令執行, 模擬 IPv4/v6 https server)
+Pelican 網誌
+Reveal 網頁投影片
+git client (config、proxy、add、commit、push、pull、branch、checkout)
+Gihub 倉儲、gh-pages 與 wiki
+Brython 網際程式系統 (文字、2D/3D靜態與動態資料展示, 互動式運算)
+
+4. Solvespace 參數 3D 繪圖系統
+簡單的 3D 零件與組立件
+2D 機構模擬 (kinematics)
+3D 零件與組立件網際檢視 (three.js)
+
+
+
+</t>
+<t tx="leo.20170115003300.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170115003300.9">##上課內容3
+
+5. Onshape 雲端參數 3D 繪圖系統
+以電腦瀏覽器開啟, 免單機安裝厚重系統
+以手機與平板 Apps 輔助設計
+提供特徵設計版本管理
+提供雲端零組件協同
+提供網際零組件與機構模擬檢視
+提供 featurescript 客製化程式系統 (納入協同產品設計實習課程範圍)
+
+6. 零組件繪圖練習
+Solvespace Tutorial 範例
+Onshape Tutorial 課程範例
+Delta 3D Printer 零組件範例
+Fourbar Linkage 零組件範例
+Nutcracker 零組件範例
+
+
+
 </t>
 </tnodes>
 </leo_file>
