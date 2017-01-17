@@ -140,12 +140,15 @@
 <v t="leo.20170115003113.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170115003122.1"><vh>20161125</vh>
+<v t="leo.20170115003122.1" a="E"><vh>20161125</vh>
 <v t="leo.20170115003122.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170115003122.3"><vh>20161125</vh></v>
 </v>
-<v t="leo.20170115003122.4" a="E"><vh>上課內容</vh>
-<v t="leo.20170115003122.5"><vh>上課內容</vh></v>
+<v t="leo.20170117221028.1" a="E"><vh>上課內容</vh>
+<v t="leo.20170117221028.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170117222334.1" a="E"><vh>上課內容</vh>
+<v t="leo.20170117222334.2"><vh>上課內容</vh></v>
 </v>
 <v t="leo.20170115003122.6" a="E"><vh>心得</vh>
 <v t="leo.20170115003122.7"><vh>心得</vh></v>
@@ -214,11 +217,17 @@
 <v t="leo.20170115003227.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170115003227.5"><vh>上課內容</vh></v>
 </v>
+<v t="leo.20170117221819.1" a="E"><vh>上課內容</vh>
+<v t="leo.20170117221819.2"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170117221826.1" a="E"><vh>上課內容</vh>
+<v t="leo.20170117221826.2"><vh>上課內容</vh></v>
+</v>
 <v t="leo.20170115003227.6" a="E"><vh>心得</vh>
 <v t="leo.20170115003227.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170115003238.1" a="E"><vh>20170106</vh>
+<v t="leo.20170115003238.1"><vh>20170106</vh>
 <v t="leo.20170115003238.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170115003238.3"><vh>20170106</vh></v>
 </v>
@@ -228,11 +237,14 @@
 <v t="leo.20170115033551.1" a="E"><vh>上課內容</vh>
 <v t="leo.20170115033551.2"><vh>上課內容</vh></v>
 </v>
+<v t="leo.20170117221259.1" a="E"><vh>上課內容</vh>
+<v t="leo.20170117221259.2"><vh>上課內容</vh></v>
+</v>
 <v t="leo.20170115003238.6" a="E"><vh>心得</vh>
 <v t="leo.20170115003238.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170115003300.1"><vh>20170113</vh>
+<v t="leo.20170115003300.1" a="E"><vh>20170113</vh>
 <v t="leo.20170115003300.2" a="E"><vh>上課日期</vh>
 <v t="leo.20170115003300.3"><vh>20170113</vh></v>
 </v>
@@ -1002,25 +1014,6 @@ print("hello")
 <t tx="leo.20170115003122.3">## 2016/11/24 第十一週
 
 </t>
-<t tx="leo.20170115003122.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170115003122.5">##上課內容 
-
-Solvespace 機構模擬功能介紹
-
-
-
-
-
-
-</t>
 <t tx="leo.20170115003122.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1259,7 +1252,7 @@ Solvespace 機構模擬功能介紹
 OnShape繪製Mechanism Tutorial
 
 
-
+&lt;img src="data/image/W16-1.png" width="800" /&gt;
 
 </t>
 <t tx="leo.20170115003227.6">&lt;section data-markdown&gt;
@@ -1302,11 +1295,7 @@ OnShape繪製Mechanism Tutorial
 </t>
 <t tx="leo.20170115003238.5">##上課內容 
 
-回顧一下這學期使用的軟體
-
-&lt;p&gt;Solvespace&lt;p&gt;
-
-&lt;img src="data/image/W17-1.png" width="800" /&gt;
+&lt;iframe src="https://player.vimeo.com/video/199816151" width="640" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20170115003238.6">&lt;section data-markdown&gt;
@@ -1357,8 +1346,7 @@ OnShape繪製Mechanism Tutorial
 </t>
 <t tx="leo.20170115003300.13">##心得
 
-今天是這學期的最後一堂課了，老師今天一一點名還順便檢查了大家的網誌進度，想當然爾非常的淒慘。雖然幾乎每個人都被抓出了很多錯誤根要改進的地方，不過我覺得老師這樣很好，讓我們可以了解自己哪個部分還需要加強改進。至於我的網誌，因為影片不完整，所以要利用接下來的時間補齊。題外話，我個人還是比較喜歡用Solvespace，雖然跟我之前高中學的SolidWorks有些許類似，不過我還是比較偏向於簡單又實用的軟體。學期即將結束了，謝謝老師這學期的教導。
-</t>
+今天是這學期的最後一堂課了，老師今天一一點名還順便檢查了大家的網誌進度，想當然爾非常的淒慘。雖然幾乎每個人都被抓出了很多錯誤根要改進的地方，不過我覺得老師這樣很好，讓我們可以了解自己哪個部分還需要加強改進。至於我的網誌，因為影片不完整，所以要利用接下來的時間補齊。題外話，我個人還是比較習慣用Solvespace，雖然跟我之前高中學的SolidWorks有些許類似，不過我還是比較偏向於簡單又實用的軟體。另外老師非常注重英文這部分，想想期中的時候我因為懶得看原文文章所以把它全部翻譯成中文，還因此被老師年了一頓。英文可以說是現今社會中必要的工具了，多花一點時間學習，肯定不會吃虧的。最後，學期即將結束了，謝謝老師這學期的教導。</t>
 <t tx="leo.20170115003300.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1557,12 +1545,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 </t>
 <t tx="leo.20170115033551.2">##上課內容 
 
-回顧一下這學期使用的軟體
-
-&lt;p&gt;OnShape&lt;p&gt;
-
-&lt;img src="data/image/W17-2.png" width="800" /&gt;
-
+&lt;iframe src="https://player.vimeo.com/video/199816671" width="640" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20170115034229.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1579,6 +1562,98 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 
 &lt;img src="data/image/W15-2.png" width="800" /&gt;
+
+
+
+
+
+
+</t>
+<t tx="leo.20170117221028.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170117221028.2">##上課內容 
+
+介紹兩款這學期所使用的繪圖工具
+
+&lt;p&gt;SolveSpace&lt;p&gt;
+
+&lt;img src="data/image/W17-1.png" width="650" /&gt;
+
+
+
+
+
+
+</t>
+<t tx="leo.20170117221259.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170117221259.2">##上課內容 
+
+&lt;iframe src="https://player.vimeo.com/video/199816722" width="640" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170117221819.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170117221819.2">##上課內容 
+
+OnShape繪製Mechanism Tutorial
+
+
+&lt;img src="data/image/W16-7.png" width="800" /&gt;
+
+</t>
+<t tx="leo.20170117221826.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170117221826.2">##上課內容 
+
+OnShape繪製Mechanism Tutorial
+
+
+&lt;img src="data/image/W16-9.png" width="800" /&gt;
+
+</t>
+<t tx="leo.20170117222334.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170117222334.2">##上課內容 
+
+&lt;p&gt;OnShape&lt;p&gt;
+
+&lt;img src="data/image/W17-2.png" width="650" /&gt;
 
 
 
